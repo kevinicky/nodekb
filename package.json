@@ -11,7 +11,7 @@
   "dependencies": {
     "acorn": "^7.1.1",
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
     "express": "^4.20.0",
